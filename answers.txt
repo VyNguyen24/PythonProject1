@@ -1,0 +1,39 @@
+Name: Vy Nguyen
+CSE 160
+Homework 6
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+Answer to Problem 7:
+
+2009 Iranian election MSE: 0.0007395833333333335
+Quantity of MSEs larger than or equal to the 2009 Iranian election MSE: 368
+Quantity of MSEs smaller than the 2009 Iranian election MSE: 9632
+2009 Iranian election null hypothesis rejection level p: 0.0368
+
+There are 9632 of random MSEs that are smaller than Iranian election MSE. There are 368 that are larger. 
+This means that only about 3.68% of genuine elections would be as different from the uniform distribution as the Iranian election was. 
+Given that, it is highly unlikely that the Iranian election was genuine, so we say that we are 96.32% confident that the data are fraudulent.
+As the p value is 0.0368 which is smaller than the threshold of p = 0.05, the Iranian election results were fraudulent.
+
+
+Answer to Problem 8:
+
+2008 United States election MSE: 0.0001410025876058068
+Quantity of MSEs larger than or equal to the 2008 United States election MSE: 4899
+Quantity of MSEs smaller than the 2008 United States election MSE: 5101
+2008 United States election null hypothesis rejection level p: 0.4899
+
+There are 5101 MSEs that are smaller than US election MSE. There are 4899 MSEs that are larger than US election MSE. 
+This means that about 48.99% of genuine elections would be as different from the uniform distribution as the US election was. 
+Given that, US election was highly seem to be genuine, so we say that we are 51.01% confident that the data are not fraudulent.
+As the p value is 0.4899 which is larger than the threshold of p = 0.05, the US election results were not fraudulent.
+
+
+Collaboration:
+
+...
+
+
